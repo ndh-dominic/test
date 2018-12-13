@@ -48,11 +48,15 @@ You can now access the solution at 'http://localhost:3000'.
 
 ### Dependencies
 The backend uses the following dependencies:
-    "cors": "^2.8.5",
-    "express": "^4.16.4",
-    "http-proxy-middleware": "^0.19.1"
-    
+```
+"cors": "^2.8.5",
+"express": "^4.16.4",
+"http-proxy-middleware": "^0.19.1"
+```
+
 The client uses the following dependencies:
-    "react": "^16.6.3",
-    "react-dom": "^16.6.3",
-    "react-scripts": "2.1.1"
+```
+"react": "^16.6.3",
+"react-dom": "^16.6.3",
+"react-scripts": "2.1.1"
+```
