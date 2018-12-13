@@ -1,9 +1,9 @@
+## About this project
 This project is my solution to the assignment sent through e-mail.
 
 ## Prerequisites
 
-This README is written for:
-- Mac OS
+This README is written for Mac OS, and it assumes that you are familiar with the terminal.
 
 ## Requirements
 
